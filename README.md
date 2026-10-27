@@ -1,6 +1,6 @@
 # EarthCycle — updated XAMPP edition
 
-This package uses the updated dark green / teal Living Soil Network website shown at https://earthcycle5.ai.studio/. It replaces the stale PHP export that was included inside the AI Studio download.
+This package uses the updated dark green / teal Living Soil Network website shown at [http://earthcycle.42web.io/]. It replaces the stale PHP export that was included inside the AI Studio download.
 
 ## Run in XAMPP (Windows)
 
